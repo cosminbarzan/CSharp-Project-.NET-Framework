@@ -1,0 +1,7 @@
+*.vs
+*.sln
+packages
+*.csproj
+*.config
+NBA_League/bin
+NBA_League/obj
