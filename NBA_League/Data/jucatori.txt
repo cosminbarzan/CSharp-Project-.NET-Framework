@@ -1,0 +1,75 @@
+﻿1,Anton Marin,Scoala Gimnaziala “Horea”,1
+2,Albu Edi,Scoala Gimnaziala “Horea”,1
+3,Albert Doni,Scoala Gimnaziala “Horea”,1
+4,Abrudean Elena,Scoala Gimnaziala “Horea”,1
+5,Antonescu Sebi,Scoala Gimnaziala “Horea”,1
+6,Aprogramatoarei Florin,Scoala Gimnaziala “Horea”,1
+7,Arpad Natalia,Scoala Gimnaziala “Horea”,1
+8,Baicu Sergiu,Scoala Gimnaziala “Horea”,1
+9,Blaga Dan,Scoala Gimnaziala “Horea”,1
+10,Bortes Alina,Scoala Gimnaziala “Horea”,1
+11,Bodea Malina,Scoala Gimnaziala “Horea”,1
+12,Barbu Adrian,Scoala Gimnaziala “Horea”,1
+13,Bivol Aurelian,Scoala Gimnaziala “Horea”,1
+14,Busuioc Adriana,Scoala Gimnaziala “Horea”,1
+15,Bancu Ovidiu,Scoala Gimnaziala “Horea”,1
+16,Calinescu Adi,Scoala Gimnaziala "Octavian Goga",2
+17,Cordea Raluca,Scoala Gimnaziala "Octavian Goga",2
+18,Caraian Denisa,Scoala Gimnaziala "Octavian Goga",2
+19,Costea Andrei,Scoala Gimnaziala "Octavian Goga",2
+20,Calin Raluca,Scoala Gimnaziala "Octavian Goga",2
+21,Copoi Alex,Scoala Gimnaziala "Octavian Goga",2
+22,Coltor David,Scoala Gimnaziala "Octavian Goga",2
+23,Cristea Catalin,Scoala Gimnaziala "Octavian Goga",2
+24,Colonel Mihai,Scoala Gimnaziala "Octavian Goga",2
+25,David Maria,Scoala Gimnaziala "Octavian Goga",2
+26,Dandea Sergiu,Scoala Gimnaziala "Octavian Goga",2
+27,Darmin Eddit,Scoala Gimnaziala "Octavian Goga",2
+28,Doctor Mihaela,Scoala Gimnaziala "Octavian Goga",2
+29,Dina Bianca,Scoala Gimnaziala "Octavian Goga",2
+30,Dolce Vita,Scoala Gimnaziala "Octavian Goga",2
+31,Ervin Gabi,Liceul Teoretic "Lucian Blaga",3
+32,Elton Sebi,Liceul Teoretic "Lucian Blaga",3
+33,Erico Florin,Liceul Teoretic "Lucian Blaga",3
+34,Eniko Roxana,Liceul Teoretic "Lucian Blaga",3
+35,Esca Andreea,Liceul Teoretic "Lucian Blaga",3
+36,Eleonora Fabiana,Liceul Teoretic "Lucian Blaga",3
+37,Edit Marin,Liceul Teoretic "Lucian Blaga",3
+38,Esteban Flaviu,Liceul Teoretic "Lucian Blaga",3
+39,Fonseca Luis,Liceul Teoretic "Lucian Blaga",3
+40,Figo George,Liceul Teoretic "Lucian Blaga",3
+41,Fatih Terim,Liceul Teoretic "Lucian Blaga",3
+42,Fabio Dani,Liceul Teoretic "Lucian Blaga",3
+43,Florea Maria,Liceul Teoretic "Lucian Blaga",3
+44,Fit Ionel,Liceul Teoretic "Lucian Blaga",3
+45,Flopi David,Liceul Teoretic "Lucian Blaga",3
+46,Pop Ana,Scoala Gimnaziala "Ioan Bob",4
+47,Petruta Calin,Scoala Gimnaziala "Ioan Bob",4
+48,Palos Mihaela,Scoala Gimnaziala "Ioan Bob",4
+49,Papuc Irina,Scoala Gimnaziala "Ioan Bob",4
+50,Plesa Dorin,Scoala Gimnaziala "Ioan Bob",4
+51,Pirelli Adda,Scoala Gimnaziala "Ioan Bob",4
+52,Popescu Dacian,Scoala Gimnaziala "Ioan Bob",4
+53,Pictor Sergiu,Scoala Gimnaziala "Ioan Bob",4
+54,Patura Norbi,Scoala Gimnaziala "Ioan Bob",4
+55,Riga Aliona,Scoala Gimnaziala "Ioan Bob",4
+56,Rastel Dani,Scoala Gimnaziala "Ioan Bob",4
+57,Radoi Razvan,Scoala Gimnaziala "Ioan Bob",4
+58,Rasteiu Sebi,Scoala Gimnaziala "Ioan Bob",4
+59,Rosca Catalin,Scoala Gimnaziala "Ioan Bob",4
+60,Rizea Maria,Scoala Gimnaziala "Ioan Bob",4
+61,Stan Alexandra,Scoala Gimnaziala "Ion Creanga",5
+62,Soare Daniel,Scoala Gimnaziala "Ion Creanga",5
+63,Sodea Dorin,Scoala Gimnaziala "Ion Creanga",5
+64,Sica Marius,Scoala Gimnaziala "Ion Creanga",5
+65,Sidoreac Alin,Scoala Gimnaziala "Ion Creanga",5
+66,Sipos Mihai,Scoala Gimnaziala "Ion Creanga",5
+67,Sofia Daria,Scoala Gimnaziala "Ion Creanga",5
+68,Saculet Dorel,Scoala Gimnaziala "Ion Creanga",5
+69,Savu Marinel,Scoala Gimnaziala "Ion Creanga",5
+70,Tapioca Onisor,Scoala Gimnaziala "Ion Creanga",5
+71,Tatar Cornel,Scoala Gimnaziala "Ion Creanga",5
+72,Tacalie Ion,Scoala Gimnaziala "Ion Creanga",5
+73,Todor Puiu,Scoala Gimnaziala "Ion Creanga",5
+74,Teodoreanu Calina,Scoala Gimnaziala "Ion Creanga",5
+75,Tisca Marinela,Scoala Gimnaziala "Ion Creanga",5

@@ -1,0 +1,5 @@
+﻿1,Florin Marin,Scoala Gimnaziala “Horea”
+2,David Maria,Scoala Gimnaziala "Octavian Goga"
+3,Alex Gabi,Liceul Teoretic "Lucian Blaga"
+4,Pop Ana,Scoala Gimnaziala "Ioan Bob"
+5,Filip Alin,Scoala Gimnaziala "Ion Creanga"
